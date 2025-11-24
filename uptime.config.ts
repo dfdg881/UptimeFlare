@@ -10,7 +10,7 @@ const pageConfig: PageConfig = {
   title: "DFGHCP's Status Page",
   // Links shown at the header of your status page, could set `highlight` to `true`
   links: [
-    { link: 'https://promising-vivianna-dfghcp-e4247e81.koyeb.app/crontab', label: 'QL' }
+    { link: 'https://promising-vivianna-dfghcp-e4247e81.koyeb.app/crontab', label: 'QL' },
   ],
 }
 
